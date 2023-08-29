@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Barry Tormey
-- 💻 Principal Software Engineer
+- 💻 Consulting Software Engineer
 - ✋ on PatientSecure
 - 👴 since May 2014
 - 📫 btormey@imprivata.com
