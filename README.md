@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barry Tormey
 - 💻 Consulting Software Engineer
-- ✋ on PatientSecure
+- 🔨 working on Patient Access
 - 👴 since May 2014
 - 📫 btormey@imprivata.com
 
